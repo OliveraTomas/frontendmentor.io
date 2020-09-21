@@ -55,7 +55,7 @@ header{
     width: 100%;
     height: 100vh;
     background-size: cover;
-    background-image: url(/clipboard-landing-page-master/images/bg-header-desktop.png);
+    background-image: url(/images/bg-header-desktop.png);
     text-align: center;
 }
 .logo{
